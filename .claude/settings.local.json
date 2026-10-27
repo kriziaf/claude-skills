@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone *)",
+      "Bash(gh auth *)",
+      "Bash(gh repo *)",
+      "Bash(git init *)",
+      "Bash(echo \".DS_Store\")",
+      "Bash(echo \"node_modules/\")",
+      "Bash(git add *)",
+      "Bash(git reset *)",
+      "Bash(git commit -m 'Initial commit: Add workflow skills *)"
+    ]
+  }
+}
