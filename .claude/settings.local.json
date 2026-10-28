@@ -9,7 +9,11 @@
       "Bash(echo \"node_modules/\")",
       "Bash(git add *)",
       "Bash(git reset *)",
-      "Bash(git commit -m 'Initial commit: Add workflow skills *)"
+      "Bash(git commit -m 'Initial commit: Add workflow skills *)",
+      "Bash(git remote *)",
+      "Bash(git branch *)",
+      "Bash(git push *)",
+      "Bash(git pull *)"
     ]
   }
 }
